@@ -72,7 +72,7 @@ main{
 .Titulo{  
     font-family:'android',serif;
     margin-top: 0px;
-    background-image: linear-gradient(to right,#41BFB3,transparent);
+   
     text-indent: 10px;
    /* background-color: blueviolet;*/
 }
