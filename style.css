@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 @font-face {
-    font-family:'android';
-    src: url('droid_robot/doridrobot.ttf') format('truetype');
+    font-family:'fonte';
+    src: url('') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -70,9 +70,9 @@ main{
 }
 
 .Titulo{  
-    font-family:'android',serif;
+    font-family:'Fonte', 'Arial',   serif;
     margin-top: 0px;
-   
+    background-image: linear-gradient(to right,#41BFB3,transparent);
     text-indent: 10px;
    /* background-color: blueviolet;*/
 }
