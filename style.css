@@ -24,7 +24,7 @@ header {
   }
 header > p {
 text-align: center;
-color: white;
+color: rgba(255, 255, 255, 0.118);
 font-size:  1.2em; 
 }
 header > h1{
